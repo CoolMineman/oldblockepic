@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "modidasdfassd",
   "version": "${version}",
 
   "name": "Example Mod",
@@ -18,9 +18,6 @@
 
   "environment": "*",
   "entrypoints": {
-    "main": [
-      "net.fabricmc.example.ExampleMod"
-    ]
   },
   "mixins": [
     "modid.mixins.json"
